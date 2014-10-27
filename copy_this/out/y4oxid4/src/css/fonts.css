@@ -1,0 +1,41 @@
+/*
+#########################################################################
+#	$Id: 9c48077c5eb5a7672b8f0381da6f0fbaed8120b6 $
+#	Project:	YAML4 OXID eSales 4 Template 4.8.x
+#	ProjectId:	oxYaml 
+#	Copyright: 	Rene Ettling (r.ettling@eshop-source.com)
+#				(http://www.eshop-source.com)
+#				Some parts based on YAML4, Copyright 2005-2012, Dirk Jesse
+#
+#	Lizenz:		CC BY 3.0
+#	Deutsch:	http://creativecommons.org/licenses/by/3.0/de/
+#	Schweiz:	http://creativecommons.org/licenses/by/3.0/ch/
+#	Englisch:	http://creativecommons.org/licenses/by/3.0/de/deed.en
+#
+#########################################################################
+*/
+
+@font-face {
+    font-family: "Droid Serif";
+    font-style: italic;
+    font-weight: normal;
+    src: local("Droid Serif Italic"), local("DroidSerif-Italic"), url("fonts/cj2hUnSRBhwmSPr9kS5894o3ZslTYfJv0R05CazkwN8.woff") format("woff");
+}
+@font-face {
+    font-family: "Droid Serif";
+    font-style: normal;
+    font-weight: bold;
+    src: local("Droid Serif Bold"), local("DroidSerif-Bold"), url("fonts/QQt14e8dY39u-eYBZmppwRbnBKKEOwRKgsHDreGcocg.woff") format("woff");
+}
+@font-face {
+    font-family: "Droid Serif";
+    font-style: normal;
+    font-weight: normal;
+    src: local("Droid Serif"), local("DroidSerif"), url("fonts/0AKsP294HTD-nvJgucYTaLrIa-7acMAeDBVuclsi6Gc.woff") format("woff");
+}
+@font-face {
+    font-family: "Droid Sans";
+    font-style: normal;
+    font-weight: bold;
+    src: local("Droid Sans Bold"), local("DroidSans-Bold"), url("fonts/EFpQQyG9GqCrobXxL-KRMXbFhgvWbfSbdVg11QabG8w.woff") format("woff");
+}

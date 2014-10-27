@@ -1,0 +1,43 @@
+$ID$
+
+Changelog y4:oxid4 Theme
+02.04.2014 v1.0.18 Anpassung an OXID 4.8.x
+- Detail und Checkout angepasst, Blöcke eingefügt.
+
+2.5.2013 v1.0.16 by Rene Ettling eshop-source.com
+- Änderungen an Layout Dateien vorgenommen.
+
+9.3.2013 v1.0.15 by Rene Ettling eshop-source.com
+- Fehler im Checkout behoben
+
+26.03.2013 v1.0.14 by Rene Ettling eshop-source.com
+- 	Varianten/Auswahllisten gefixt
+	Varianten mit nur einer Auswahl werden jetzt korrekt dargestellt, ebenso Auswahllisten.
+____________________________________________
+
+21.03.2013 v1.0.13 by Rene Ettling eshop-source.com
+- 	Theme Lizenzeinstellungen in das Backend verschoben
+____________________________________________
+
+20.03.2013 v1.0.10 by Rene Ettling eshop-source.com
+- 	Einstellungen für Nivoslider und 2 -3 Spaltigkeit in das Backend verschoben
+____________________________________________
+
+12.03.2013 v1.0.3 by Rene Ettling eshop-source.com
+- 	YAML4 Framework 
+	auf Version v4.0.1, zurück geupdatet. Es sind doch zu großer Änderungen zwischen 4.0.1 und 4.0.2 die eine einfache Änderung nicht möglich machen. TODO für v1.1
+____________________________________________
+
+12.03.2013 v1.0.2 by Rene Ettling eshop-source.com
+- 	YAML4 Framework 
+	auf Version v4.0.2, (Build: 121023) geupdatet
+____________________________________________
+11.03.2013 v1.0.1 by Rene Ettling eshop-source.com
+-	NivoSlider 
+	Konfiguration für Effekte und Themes und Scripteinstellungen im Backend unter Erweiterungen=>Themes=>Yaml4 OXID 4.7 =>Einstellungen=>Anzeige eingefügt.
+____________________________________________
+
+
+
+
+

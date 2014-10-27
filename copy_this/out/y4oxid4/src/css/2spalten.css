@@ -1,0 +1,6 @@
+/*GRUNDLAYOUT COLS*/
+/* 2-Spalten */
+.ym-column { padding-right:0; table-layout:fixed; }
+.ym-col1 { float: right; width: 75%; } /* content */
+.ym-col3 { margin: 0 75% 0 0; } /* sidebar */
+.ym-cbox {padding: 0 0 0 10px;}
